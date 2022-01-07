@@ -1,0 +1,1 @@
+Work in progress: a simple Python script to dump 24c02 and similar EEPROM chips via the I2C bus (eg. on a Raspberry Pi). These can be found on many different devices such as smart home gadgets, led strips, automotive ECUs/clusters (for storing things like mileage data or immobilizer code).
